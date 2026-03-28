@@ -1,0 +1,23 @@
+# Jupyter & Notebook
+jupyter
+notebook
+ipython
+
+# Data Manipulation & Analysis
+pandas
+numpy
+
+# Data Visualization (EDA)
+matplotlib
+seaborn
+plotly
+
+# Machine Learning & Feature Scaling
+scikit-learn
+
+# Statistical Analysis & Advanced Regression
+scipy
+statsmodels
+
+# Utilities
+pyyaml
